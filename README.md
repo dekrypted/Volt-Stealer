@@ -5,7 +5,7 @@ It's built to be nearly bugless and lightweight.
 
 ---
 
-# 🪛 Setup
+# 🔧 Setup
 
 **Setup** is extremely simple. <br>
 Follow the steps below!
