@@ -28,3 +28,4 @@ Follow the steps below!
 > C:\Star\This\Repository\> python -m pyinstaller --clean --onefile -key This_Helps_Keep_Your_EXE_Safe volt.py
 > ```
 
+You can also import it into another script!
