@@ -3,6 +3,8 @@
 **Volt Stealer** is an extremely simple, yet fast token logger. <br>
 It's built to be nearly bugless and lightweight.
 
+---
+
 # 🪛 Setup
 
 **Setup** is extremely simple. <br>
